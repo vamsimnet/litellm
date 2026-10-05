@@ -1,4 +1,9 @@
 {
+  "fastrouter": {
+    "base_url": "https://api.fastrouter.ai",
+    "api_key_env": "FASTROUTER_API_KEY",
+    "api_base_env": "FASTROUTER_API_BASE"
+  },
   "publicai": {
     "base_url": "https://api.publicai.co/v1",
     "api_key_env": "PUBLICAI_API_KEY",
