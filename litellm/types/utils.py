@@ -4174,6 +4174,7 @@ class LlmProviders(str, Enum):
     LIBERTAI = "libertai"
     PINSTRIPES = "pinstripes"
     COGNITION = "cognition"
+    FASTROUTER = "fastrouter"
     CORTECS = "cortecs"
     SCX_AI = "scx-ai"
     PRISM = "prism"
